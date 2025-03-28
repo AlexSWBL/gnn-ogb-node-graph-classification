@@ -12,7 +12,7 @@ This project implements Graph Neural Networks (GNNs) using PyTorch Geometric to 
 - `gnn_ogb_colab.ipynb`: Complete notebook implementation, ready to run on Google Colab
 
 ## 🚀 Open in Google Colab  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/15XTWTGNEnS8z9D-akxdMLadmsgS-z7sR?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15XTWTGNEnS8z9D-akxdMLadmsgS-z7sR?usp=sharing)
 
 ## 🧠 Concepts Practiced
 - Graph representation learning  
